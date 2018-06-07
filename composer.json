@@ -1,0 +1,32 @@
+{
+    "name": "io-developer/php-keyget",
+    "description": "PHP KeyGet solves routine actions like 'Get array value by key or default if not exists' and 'Ensure array has key or set to default'",
+    "keywords": [
+        "php",
+        "get",
+        "default",
+        "get or default",
+        "get if exists",
+        "set if not exists",
+        "set default",
+        "setdefault",
+        "array",
+        "dict"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/io-developer/php-keyget",
+    "authors": [
+        {
+            "name": "Sergey Sedyshev",
+            "email": "i.o.developer@gmail.com",
+            "homepage": "https://github.com/io-developer"
+        }
+    ],
+    "require" : {
+        "php" : ">=5.4"
+    },
+    "autoload": {
+        "files": ["src/functions.php"]
+    }
+}
