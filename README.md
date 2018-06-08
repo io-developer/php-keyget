@@ -2,7 +2,9 @@
 [![Build Status](https://travis-ci.org/io-developer/php-keyget.svg?branch=master)](https://travis-ci.org/io-developer/php-keyget)
 [![Packagist](https://img.shields.io/packagist/v/io-developer/php-keyget.svg)](https://packagist.org/packages/io-developer/php-keyget)
 
-Solves routine actions like 'Get array value by key or default if not exists' and 'Ensure array has key or set to default'
+Library solves routine actions like:
+* Get array value by key/index if exists or return default value
+* Set array key/index if not exists
 
 ## Installation
 
